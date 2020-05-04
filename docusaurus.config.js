@@ -10,8 +10,8 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://govindmalviya.github.io',
-  baseUrl: 'learning-github-website',
+  url: 'https://learning-github-website.now.sh/',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
